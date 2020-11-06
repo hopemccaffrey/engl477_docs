@@ -4,17 +4,17 @@ Below are the instructions for accessing the material for a website constructed 
 
 ### Published Work
 
-[Here] (hmccaffrey477.wordpress.com) is the main homepage for the DH Publication.
+[Here](hmccaffrey477.wordpress.com) is the main homepage for the DH Publication.
 
-1. DH Dev Report 1, titled "A Deviant Digital Project" can be found [here] (hmccaffrey477.wordpress.com/a-deviant-digital-project/).
+1. DH Dev Report 1, titled "A Deviant Digital Project" can be found [here.](hmccaffrey477.wordpress.com/a-deviant-digital-project/)
 
 If you need to update the text, the original document is in the repository.
 
-2. DH Dev Report 2, titled "The Digital Terrain," can be found [here] (https://hmccaffrey477.blogspot.com/2020/09/the-digital-terrain-exploring-metadata.html).
+2. DH Dev Report 2, titled "The Digital Terrain," can be found [here.](https://hmccaffrey477.blogspot.com/2020/09/the-digital-terrain-exploring-metadata.html)
 
 If you need the text for this website, which is hosted on blogger, that can be found in this repository.
 
-3. DH Dev Report 4, titled "The Metropolitan Virus-Scape," is [here] (hmccaffrey477.wordpress.com/the-metropolitan-virus-scape/).
+3. DH Dev Report 4, titled "The Metropolitan Virus-Scape," is [here.](hmccaffrey477.wordpress.com/the-metropolitan-virus-scape/)
 
 You can also find the text for this page in the repository.
 
