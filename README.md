@@ -2,7 +2,7 @@
 
 Below are the instructions for accessing the material for a website constructed for the  Advanced Topics in Digital Humanities Class.
 
-###Published Work
+### Published Work
 
 [Here] (hmccaffrey477.wordpress.com) is the main homepage for the DH Publication.
 
@@ -18,7 +18,7 @@ If you need the text for this website, which is hosted on blogger, that can be f
 
 You can also find the text for this page in the repository.
 
-###Info for New Page
+### Info for New Page
 
 This report will create a digital exhibit about Northwestern University's history concerning and relationship to Indigenous communities in what is now Evanston, Illinois.
 
@@ -41,17 +41,3 @@ This report will create a digital exhibit about Northwestern University's histor
 
 [logo]: https://raw.githubusercontent.com/hopemccaffrey/engl477_docs/main/IMG_1469.JPG "Archange Ouilmette Sign"
  
-####Metadata
-
-When you are collecting Metadata for the images used, make sure you are recording the following information:
-
-[] Identifier
-[] Title
-[] Creator
-[] Contributor
-[] Date
-[] Format
-[] Subject
-[] Description 
-[] Type
-[] Rights
